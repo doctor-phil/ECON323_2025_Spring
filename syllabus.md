@@ -11,7 +11,7 @@ This is a course introducing the computational and data science tools used in mo
 We will apply a programming language (Python) to analyze these sorts of
 data and making numerical calculations/simulations of models in economics.
 
-The classes will be held at **BUCH B313** from 2:00PM to 3:20PM (Section 002) and in **Iona 301** from 5:00pm to 6:30pm.
+The classes will be held at **LASR 104** from 2:00PM to 3:20PM (Section 002) and in **Iona 301** from 5:00pm to 6:30pm.
 
 ## Course Materials and Communications
 
