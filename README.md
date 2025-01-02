@@ -18,9 +18,9 @@ If possible, please bring a laptop to class to interactively discuss the materia
 
 ## Instructor and Teaching Assistant
 - Philip Solimine [philip.solimine@ubc.ca](mailto:philip.solimine@ubc.ca)
-- Office Hours: Monday 12pm-1pm and Wednesday 11am-12pm, Iona #106
-- TA: Daniel Jaramillo [daniel.jaramillo@alumni.ubc.ca](mailto:daniel.jaramillo@alumni.ubc.ca)
-- Office Hours: Tuesdays 2-3pm, Iona #434
+- Office Hours: TBA
+- TA: Bruno Esposito [TBA](mailto:TBA)
+- Office Hours: TBA
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
@@ -31,7 +31,7 @@ Major course sections
 3. **Introduction to Pandas and Data Wrangling**
 4. **Data Science Case Studies and Tools**
 
-Grading: Problem sets: 25%; Midterm: 20%; Final projects: 25%; Final exam: 25%; Attendance/Participation: 5%
+Grading: Problem sets: 10%; Midterm: 30%; Final projects: 20%; Final exam: 35%; Attendance/Participation: 5%
 
 The [final project](final_project.md) is open ended. See [previous projects](https://datascience.quantecon.org/theme/projects.html)
 
