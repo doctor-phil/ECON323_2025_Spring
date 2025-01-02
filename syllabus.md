@@ -117,7 +117,7 @@ In this course, you are permitted the use of AI tools on homework assignments. I
 As specified above, **students are responsible for any and all factual inaccuracies that are created by the use of AI tools.**
 This policy also tentatively applies to the final project, although specific clarification of the requirements for the use of AI tools on the final project will be added as the course progresses. Generally speaking, reliance on AI tools for non-trivial tasks on the final project is **strongly discouraged**, as it tends to produce work that is predictable, facile, and low-quality. There are certain use cases however -- including checking spelling and grammar -- where the use of such tools may be valuable.
 
-**All AI tools are prohibited from use during the midterm and final exam.** If a student relies too much on these tools for the homework assignments, they will likely be ill-prepared for the exam. Students who use AI tools on teh exam will be given a zero on that component of the course and will be reported to the Dean’s office for academic misconduct (please see Policy on Academic Honesty).
+**All AI tools are prohibited from use during the midterm and final exam.** If a student relies too much on these tools for the homework assignments, they will likely be ill-prepared for the exam. Students who use AI tools on the exam will be given a zero on that component of the course and will be reported to the Dean’s office for academic misconduct (please see Policy on Academic Honesty).
 
 As stated above, this course policy is subject to change throughout the term. Whenever the policy is changed, students will be notified through a Canvas/Piazza announcement, and all changes will be reflected in this syllabus.
 
