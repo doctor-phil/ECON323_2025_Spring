@@ -1,7 +1,7 @@
 ## Quantitative Economic Modeling with Data Science Applications
 
 - **Instructor:** Philip Solimine, philip.solimine@ubc.ca
-- **TA:** Bruno Esposito, TBA
+- **TA:** Bruno Esposito, bnespo@student.ubc.ca
 - **Textbook:** [QuantEcon DataScience](https://datascience.quantecon.org/)
 
 
