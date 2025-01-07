@@ -1,7 +1,7 @@
 This is a *tentative schedule* and *will be updated and changed* as the course progresses.
 
 ## Lectures and Notebooks
-1. **January 8** Overview and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
+1. **January 7** Overview and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
 2. **January 10** - Finish [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
 3. **January 15** - Finish [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) and start [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
 4. **January 17** - The rest of [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
