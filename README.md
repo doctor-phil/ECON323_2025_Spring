@@ -19,7 +19,7 @@ If possible, please bring a laptop to class to interactively discuss the materia
 ## Instructor and Teaching Assistant
 - Philip Solimine [philip.solimine@ubc.ca](mailto:philip.solimine@ubc.ca)
 - Office Hours: TBA
-- TA: Bruno Esposito [TBA](mailto:TBA)
+- TA: Bruno Esposito [bnespo@student.ubc.ca](mailto:bnespo@student.ubc.ca)
 - Office Hours: TBA
 
 ## Syllabus
