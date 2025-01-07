@@ -11,13 +11,13 @@ We will accept a wide range of proposals on many different topics.  The key requ
 * Something that involves data and visualization
 * Practice of coding skills with Python (or another language if appropriate and approved by us)
 * If you can relate this to an Honours thesis/ECON490/etc. that is great. But you cannot simply submit your thesis to us. For example, you could take your thesis and do a nice visualization notebook to go with it.
-* You may work in a group of **up to four (4)** students. If you would like to work alone, you need to get my permission first.
+* You are **strongly encouraged** to work with a partner on the project. Project groups should be comprised of **two (2) students**. The project should contain one sentence about the contribution of each group member.
 * A common and acceptable reason to work alone is to work on something that is closely related to your thesis (see above)
   
 See [previous final projects](https://datascience.quantecon.org/theme/projects.html)
 
 ## Size of Project and Grading Criteria
-You should target roughly a similar length as the amount of code in one of your later problem sets (e.g. 3-5 "pages" of Jupyter notebooks).  But having a large notebook is not needed if you are doing something interesting, as you will not be graded solely on the quantity of code.
+You should target roughly a similar length as the amount of code in one of your later problem sets (e.g. 3-5 "pages" of Jupyter notebooks).  You will not be graded solely on the quantity of code.
 
 If you are basing your project on an existing thesis/etc. then we will expect a higher quality of project since you would have a good starting point.
 
@@ -32,7 +32,6 @@ There are many ways to do well on this project, for example, you could do well w
 
 Some additional tips:
 * Get an idea of your research question, or at least the general area you are interested in studying, **before** you go looking for a dataset. Feel free to run it by me after class or in office hours if you're unsure!
-* Working alone can put you at a substantial disadvantage, just in terms of the amount of work that you are able to get done compared to a group of 4. I will try to take this into consideration when grading, but you will sill generally be better off working in a group.
 * The ideal project should have an introduction that explains the research question in detail, followed by an analysis section, and a conclusions section that explains how you have used the analysis to answer your research question.
 * Get started *early*!
 
