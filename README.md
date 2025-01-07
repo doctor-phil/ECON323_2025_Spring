@@ -18,9 +18,9 @@ If possible, please bring a laptop to class to interactively discuss the materia
 
 ## Instructor and Teaching Assistant
 - Philip Solimine [philip.solimine@ubc.ca](mailto:philip.solimine@ubc.ca)
-- Office Hours: Tuesday/Thursday 12pm-1pm
+- Office Hours: Tuesday/Thursday 12pm-1pm in Iona 106
 - TA: Bruno Esposito [bnespo@student.ubc.ca](mailto:bnespo@student.ubc.ca)
-- Office Hours: TBA
+- Office Hours: 4:30pm-5:30pm Fridays in IONA 335
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
