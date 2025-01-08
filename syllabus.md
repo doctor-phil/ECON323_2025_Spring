@@ -16,9 +16,9 @@ The classes will be held at **LASR 104** from 2:00PM to 3:20PM (Section 002) and
 ## Course Materials and Communications
 
 All materials will be provided online:
-- Class Materials: https://github.com/doctor-phil/ECON323_2024_Spring
+- Class Materials: https://github.com/doctor-phil/ECON323_2025_Spring
 - Communications, Announcements, Grades: http://canvas.ubc.ca
-- Piazza: https://piazza.com/ubc.ca/winterterm22023/econ323
+- Piazza: https://piazza.com/ubc.ca/winterterm22024/econ323
 
 ## Grading
 
