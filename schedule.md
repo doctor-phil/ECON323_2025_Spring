@@ -34,5 +34,6 @@ The remaining portion of the schedule will be adjusted after the midterm exam.
 28. **April 8** - [Regression](https://datascience.quantecon.org/tools/regression.html)
 29. **April 10** - [Regression](https://datascience.quantecon.org/tools/regression.html)
 
-## Problem Sets
+## Assignments
 **Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2025_Spring/tree/master/problem_sets), not the ones from `quantecon.org`! Do not do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`! (Except as practice)
+1. [Problem set 1](./problem_sets/problem_set_1.ipynb) **Due Tuesday Jan 21 at 11:59 PM**
