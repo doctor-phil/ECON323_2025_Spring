@@ -9,7 +9,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 6. **January 23** - [Functions continued](https://datascience.quantecon.org/python_fundamentals/functions.html)
 7. **January 28** - [Objects and classes](./extra/objects-and-classes.ipynb)
 8. **January 30** - [Objects and classes continued](./extra/objects-and-classes.ipynb)
-9.  **February 4** - [Introduction to Numpy](https://datascience.quantecon.org/scientific/basics.html)
+9.  **February 4** - [Introduction to Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 10. **February 6** - [Plotting Basics](https://datascience.quantecon.org/scientific/plotting.html)
 11. **February 11** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
 12. **February 13** - Midterm exam (room BUCH B126)
