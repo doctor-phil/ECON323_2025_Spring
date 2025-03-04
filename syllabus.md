@@ -117,7 +117,10 @@ In this course, you are permitted the use of AI tools on all assignments, with t
 **There will be strict consequences for the use of AI tools without credit or acknowledgement. These consequences include referral to the academic dishonesty coordinator**
 
 As specified above, **students are responsible for any and all factual inaccuracies that are created by the use of AI tools.**
-This policy also tentatively applies to the final project, although specific clarification of the requirements for the use of AI tools on the final project will be added as the course progresses. Generally speaking, reliance on AI tools for non-trivial tasks on the final project is **strongly discouraged**, as it tends to produce work that is predictable, facile, and low-quality. There are certain use cases however -- including checking spelling and grammar -- where the use of such tools may be valuable.
+
+For the final project, students will be required to submit, in addition to their project document, a detailed documentation of all prompts made to a language model during their project work. I recommend keeping track of these prompts as you go. A word document is fine, simply copy-paste your prompts into a word document along with your submission. You do not need to include the response.
+
+Generally speaking, reliance on AI tools for non-trivial tasks on the final project is **strongly discouraged**, as it tends to produce work that is predictable, facile, and low-quality. There are certain use cases however -- including checking spelling and grammar -- where the use of such tools may be valuable.
 
 **All AI tools are prohibited from use during the midterm and final exam.** If a student relies too much on these tools for the homework assignments, they will likely be ill-prepared for the exam. Students who use AI tools on the exam will be given a zero on that component of the course and will be reported to the Dean’s office for academic misconduct (please see Policy on Academic Honesty).
 
