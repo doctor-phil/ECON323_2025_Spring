@@ -40,3 +40,4 @@ The remaining portion of the schedule will be adjusted after the midterm exam.
 2. [Problem set 2](./problem_sets/problem_set_2.ipynb) **Due Tuesday Feb 04 at 11:59 PM**
 3. Midterm exam, **Thursday Feb 13 in BUCH B126**, during your regular class time
 3. [Problem set 3](./problem_sets/problem_set_3.ipynb) **Due Tuesday Feb 24 at 11:59 PM**
+4. [Problem set 4](./problem_sets/problem_set_4.ipynb) **Due Tuesday March 18 at 11:59 PM**
