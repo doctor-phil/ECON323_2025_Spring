@@ -16,28 +16,32 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 13. **February 18** - Midterm break
 14. **February 20** - Midterm break
 --------------------------------------------------------------------------------------------------------------------------
-The remaining portion of the schedule will be adjusted after the midterm exam.
+Following the midterm exam, the following section has been adjusted to 
 
-15. **February 26** - [Pandas basics](https://datascience.quantecon.org/pandas/data_clean.html)
-16. **February 28** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html)
-17. **March 4** -  [Merge](https://datascience.quantecon.org/pandas/merge.html)
-18. **March 6** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
-19. **March 6** - [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
-20. **March 11** - [Visualization](https://datascience.quantecon.org/tools/matplotlib.html), brief overview of [Visualization Rules](https://datascience.quantecon.org/tools/visualization_rules.html) (not super important for exam)
-21. **March 13** - [Mapping](https://datascience.quantecon.org/tools/maps.html) and Lab 3
-22. **March 18** - [Applied Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
-23. **March 20** - [Applied Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html), brief overview of [Randomness](https://datascience.quantecon.org/numpy/randomness.html) (not super important for exam)
-24. **March 25** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html) 
-25. **March 27** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
-26. **April 1** - Easter Monday
-27. **April 3** - Mathematics of regression (short example notebook [here](./extra/optimization_example_regression.ipynb))
-28. **April 8** - [Regression](https://datascience.quantecon.org/tools/regression.html)
-29. **April 10** - [Regression](https://datascience.quantecon.org/tools/regression.html)
+15. **February 26** - [Pandas Introduction](https://datascience.quantecon.org/pandas/intro.html)
+16. **February 28** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
+17. **March 4** -  [The Index](https://datascience.quantecon.org/pandas/the_index.html), [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html)
+18. **March 6** - [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html), [Reshape](https://datascience.quantecon.org/pandas/reshape.html)
+19. **March 11** - Finish [Reshape](https://datascience.quantecon.org/tools/matplotlib.html), [Merging Data](https://datascience.quantecon.org/pandas/merge.html)
+20. **March 13** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html), [Time Series](https://datascience.quantecon.org/pandas/timeseries.html)
+21. **March 18** - [Visualization](https://datascience.quantecon.org/tools/matplotlib.html), [Mapping](https://datascience.quantecon.org/tools/maps.html)
+22. **March 20** - [Applied Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+23. **March 25** - Finish [Applied Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html), brief overview of [Randomness](https://datascience.quantecon.org/numpy/randomness.html)
+24. **March 27** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
+25. **April 1** - Finish [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
+26. **April 3** - Mathematics of regression (short example notebook [here](./extra/optimization_example_regression.ipynb)), [Regression](https://datascience.quantecon.org/tools/regression.html)
+27. **April 8** - Finish [Regression](https://datascience.quantecon.org/tools/regression.html)
+28. **April 10** - [Social and economic networks](https://datascience.quantecon.org/applications/networks.html)
 
 ## Assignments
 **Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2025_Spring/tree/master/problem_sets), not the ones from `quantecon.org`! Do not do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`! (Except as practice)
 1. [Problem set 1](./problem_sets/problem_set_1.ipynb) **Due Tuesday Jan 21 at 11:59 PM**
 2. [Problem set 2](./problem_sets/problem_set_2.ipynb) **Due Tuesday Feb 04 at 11:59 PM**
 3. Midterm exam, **Thursday Feb 13 in BUCH B126**, during your regular class time
-3. [Problem set 3](./problem_sets/problem_set_3.ipynb) **Due Tuesday Feb 24 at 11:59 PM**
-4. [Problem set 4](./problem_sets/problem_set_4.ipynb) **Due Tuesday March 18 at 11:59 PM**
+4. [Problem set 3](./problem_sets/problem_set_3.ipynb) **Due Tuesday Feb 24 at 11:59 PM**
+5. Project proposals, **Due Thursday March 06 at 11:59 PM**
+6. [Problem set 4](./problem_sets/problem_set_4.ipynb) **Due Tuesday March 18 at 11:59 PM**
+7. Problem set 5, TBA
+8. Project first draft deadline, **March 31 at 11:59 PM** - Note: First draft is **not graded**, the project does not need to be completed by this point. You can make any updates or changes up until the final project deadline.
+9. Final exam, **Wed Apr 16 2025 at 7:00 pm in BUCH B126**
+10. Final project deadline, **Friday, April 18 at 11:59PM**
