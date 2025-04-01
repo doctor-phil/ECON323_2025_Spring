@@ -16,7 +16,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 13. **February 18** - Midterm break
 14. **February 20** - Midterm break
 --------------------------------------------------------------------------------------------------------------------------
-Following the midterm exam, the following section has been adjusted to 
+Following the midterm exam, the following section has been adjusted
 
 15. **February 26** - [Pandas Introduction](https://datascience.quantecon.org/pandas/intro.html)
 16. **February 28** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
@@ -41,7 +41,7 @@ Following the midterm exam, the following section has been adjusted to
 4. [Problem set 3](./problem_sets/problem_set_3.ipynb) **Due Tuesday Feb 24 at 11:59 PM**
 5. Project proposals, **Due Thursday March 06 at 11:59 PM**
 6. [Problem set 4](./problem_sets/problem_set_4.ipynb) **Due Tuesday March 18 at 11:59 PM**
-7. Problem set 5, TBA
 8. Project first draft deadline, **March 31 at 11:59 PM** - Note: First draft is **not graded**, the project does not need to be completed by this point. You can make any updates or changes up until the final project deadline.
-9. Final exam, **Wed Apr 16 2025 at 7:00 pm in BUCH B126**
-10. Final project deadline, **Friday, April 18 at 11:59PM**
+9. [Problem set 5](./problem_sets/problem_set_5.ipynb) **Due Friday April 18 at 11:59 PM**
+10. Final exam, **Wed Apr 16 2025 at 7:00 pm in BUCH B126**
+11. Final project deadline, **Friday, April 18 at 11:59PM**
