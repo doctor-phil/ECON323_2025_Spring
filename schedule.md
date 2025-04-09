@@ -26,7 +26,7 @@ Following the midterm exam, the following section has been adjusted
 20. **March 13** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html), [Time Series](https://datascience.quantecon.org/pandas/timeseries.html)
 21. **March 18** - [Visualization](https://datascience.quantecon.org/tools/matplotlib.html), [Mapping](https://datascience.quantecon.org/tools/maps.html)
 22. **March 20** - [Applied Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
-23. **March 25** - Finish [Applied Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html), brief overview of [Randomness](https://datascience.quantecon.org/numpy/randomness.html)
+23. **March 25** - Finish [Applied Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html), brief overview of [Randomness](https://datascience.quantecon.org/scientific/randomness.html))
 24. **March 27** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 25. **April 1** - Finish [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 26. **April 3** - Mathematics of regression (short example notebook [here](./extra/optimization_example_regression.ipynb)), [Regression](https://datascience.quantecon.org/tools/regression.html)
