@@ -44,4 +44,4 @@ Following the midterm exam, the following section has been adjusted
 8. Project first draft deadline, **March 31 at 11:59 PM** - Note: First draft is **not graded**, the project does not need to be completed by this point. You can make any updates or changes up until the final project deadline.
 9. [Problem set 5](./problem_sets/problem_set_5.ipynb) **Due Friday April 11 at 11:59 PM**
 10. Final exam, **Wed Apr 16 2025 at 7:00 pm in BUCH B126**
-11. Final project deadline, **Friday, April 18 at 11:59PM**
+11. Final project deadline, **Saturday, April 19 at 11:59PM**
