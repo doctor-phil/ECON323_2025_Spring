@@ -41,7 +41,7 @@ Following the midterm exam, the following section has been adjusted
 4. [Problem set 3](./problem_sets/problem_set_3.ipynb) **Due Tuesday Feb 24 at 11:59 PM**
 5. Project proposals, **Due Thursday March 06 at 11:59 PM**
 6. [Problem set 4](./problem_sets/problem_set_4.ipynb) **Due Tuesday March 18 at 11:59 PM**
-8. Project initial deadline, **March 31 at 11:59 PM** - Note: The project should be close to finished, but you can make any updates or changes up until April 11.
+8. Project initial deadline, **March 31 at 11:59 PM** - Note: The project should be close to finished, but you can make any updates or changes up until April 19.
 9. [Problem set 5](./problem_sets/problem_set_5.ipynb) **Due Friday April 11 at 11:59 PM**
 10. Final exam, **Wed Apr 16 2025 at 7:00 pm in BUCH B126**
 11. Final project deadline, **Saturday, April 19 at 11:59PM**
